@@ -1,0 +1,4 @@
+acelerometro
+============
+
+Testando Phonegap
